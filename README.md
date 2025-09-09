@@ -15,9 +15,14 @@ Um sistema web para controle de **finanças pessoais**, que permite:
 
 ## 🖼️ Demonstração
 
-> Tela principal com **saldo, gráficos interativos** e lista de transações recentes.
+## Página inicial
 
+![Home](./public/exemplo1.png)
 
+---
+## Histórico
+
+![Historico](./public/exemplo2.png)
 
 ---
 
