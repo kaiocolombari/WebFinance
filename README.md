@@ -122,9 +122,4 @@ Contribuições são **bem-vindas**! Você pode:
 * 🐛 Abrir *issues* para bugs ou sugestões
 * 🚀 Criar *pull requests* com novas funcionalidades
 
-📌 Sugestões de melhorias:
-
-* Dashboard mais interativo com **filtros dinâmicos**
-* Integração com **APIs externas** de câmbio ou bancos
-
 ---
