@@ -1,9 +1,14 @@
 # 💰 Dashboard de Finanças Pessoais
 
 Um sistema web para controle de **finanças pessoais**, que permite:
+---
+
 ✅ Registrar entradas e saídas
+
 ✅ Visualizar saldo total
+
 ✅ Analisar gastos por categoria
+
 ✅ Acompanhar gráficos de evolução financeira
 
 ---
@@ -12,7 +17,7 @@ Um sistema web para controle de **finanças pessoais**, que permite:
 
 > Tela principal com **saldo, gráficos interativos** e lista de transações recentes.
 
-*(adicione aqui um print ou GIF do projeto para ficar ainda mais atrativo!)*
+
 
 ---
 
