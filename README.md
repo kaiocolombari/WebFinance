@@ -59,12 +59,14 @@ Um sistema web para controle de **finanças pessoais**, que permite:
 finance-dashboard/
 ├─ public/
 ├─ src/
-│  ├─ components/   # Componentes reutilizáveis (Cards, Gráficos, Formulários)
-│  ├─ pages/        # Páginas principais (Dashboard, Histórico, Adicionar Transação)
-│  ├─ hooks/        # Hooks customizados
-│  ├─ utils/        # Funções auxiliares
+│  ├─ components/  
+│  ├─ contexts/   
+│  ├─ pages/        
+│  ├─ utils/        
 │  ├─ App.jsx
-│  └─ index.jsx
+│  ├─ App.css
+│  ├─ index.css
+│  └─ main.jsx
 ├─ package.json
 └─ tailwind.config.js
 ```
