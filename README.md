@@ -112,7 +112,6 @@ yarn dev
   ```
 * 🌙 Dark Mode com TailwindCSS
 * 📤 Exportar dados em **CSV/PDF**
-* 🔑 Autenticação para múltiplos usuários
 
 ---
 
