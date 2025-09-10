@@ -40,7 +40,7 @@ Um sistema web para controle de **finanças pessoais**, que permite:
   * Evolução do saldo (Linha)
 * 📋 **Histórico completo** de transações com filtros (data e categoria)
 * 💾 **Persistência de dados** via `localStorage` (funciona offline)
-* 🌙 **Dark Mode** (opcional de implementar)
+* 🌙 **Dark Mode**
 
 ---
 
